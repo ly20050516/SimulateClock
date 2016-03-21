@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="Clock">
+        <attr name="radius" format="float"></attr>
+        <attr name="moveable" format="boolean"></attr>
+    </declare-styleable>
+</resources>
